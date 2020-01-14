@@ -1,0 +1,105 @@
+ .navbar_div {
+   color: white;
+ }
+
+/* header */
+main {
+  margin-bottom: 3rem;
+}
+
+#header_section {
+  width: 100%;
+  height: 528px;
+  margin-top: 3rem;
+
+}
+
+#header_section h3 {
+  margin-top: 5rem;
+}
+.header_heading {
+  font-family: 'Gelasio', serif;
+  font-weight: bold;
+  font-size: 3.5rem;
+  margin-bottom: 0;
+  
+}
+
+.header_info {
+  width: 80%;
+  margin: 4rem auto;
+  margin-top: 0;
+  color: white;
+}
+
+#header_section button {
+  margin: 8px;
+  box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.5);
+ 
+ 
+}
+
+.header_lists_div {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  padding: 20px;
+ 
+}
+.header_lists {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 16px;
+}
+
+.header_list_item {
+  display: inline-block;
+  margin: 0 16px;
+  width: 25%;
+  vertical-align: top;
+}
+
+.header_lists_paragraph {
+  margin: 0;
+}
+
+.header_lists_paragraph a {
+  color: white;
+  text-decoration: none;
+  
+  border-bottom: 2px dotted white;
+ 
+}
+/* features section */
+#features {
+  text-align: center;
+  padding: 8px 16px;
+ 
+}
+.section_heading {
+   margin-top: 3rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.card {
+ 
+  margin: 16px 0;
+ 
+}
+ 
+.card:hover,
+.card:active {
+  box-shadow: 2px 2px 2px 3px rgba(0, 0, 0, 0.5);
+}
+ 
+.card h3 {
+  color: rgb(226, 78, 78);
+}
+
+.card_info {
+  color: grey;
+}
+
+ 
+ 

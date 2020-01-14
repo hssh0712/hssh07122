@@ -1,0 +1,90 @@
+/* header and nav section */
+
+header {
+  height: 80px;
+}
+
+.nav-link {
+  color: #71DEFB !important; 
+  width: 50%;
+  padding: 0;
+  text-align: left;
+ 
+}
+.nav-link:hover,
+.nav-link:active,
+.nav-link:focus {
+ 
+  color: #39b6d6 !important;
+
+}
+
+.nav-link:focus {
+  outline: 0;
+      box-shadow: none;
+}
+ 
+ 
+
+ 
+main {
+  padding: 0 16px;
+  margin-top: 2rem;
+}
+.testimonial__image {
+  width: 100%;
+ 
+}
+
+.testimonial__image:hover {
+  box-shadow: 2px 2px 5px 4px rgba(0, 0, 0, 0.5);
+}
+.navbar-collapse {
+  
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+ 
+.testimonial {
+  margin-bottom: 3rem;
+ 
+}
+.testimonial__info {
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+.testimonial__name {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.testimonial__subtitle {
+  font-size: 1.3rem;
+  color: grey;
+}
+
+.testimonial__subtitle a {
+  color: grey;
+  text-decoration: none;
+  
+  border-bottom: 2px dotted grey;
+ 
+}
+ 
+ 
+.testimonial__image-container {
+  display: inline-block;
+  width: 65%;
+  
+ 
+}
+ 
+@media (max-width: 535.2px) {
+  .testimonial__image {
+    
+    height: 310px;
+  }
+}

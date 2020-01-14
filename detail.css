@@ -1,0 +1,63 @@
+header {
+  height: 50px;
+}
+
+main {
+  padding: 0 16px;
+  
+}
+
+
+ 
+ 
+.nav-item {
+  width: 40%;
+}
+.nav-link {
+  padding: 0;
+  height: 35px;
+  text-align: center;
+  color: #71defb !important;
+ 
+}
+
+.nav-link:hover,
+.nav-link:active,
+.nav-link:focus {
+ 
+  color: #39b6d6 !important;
+
+}
+figcaption, h1 {
+  text-align: center;
+}
+
+.main_section {
+  margin: 8rem 0;
+}
+
+.main_section img:hover,
+.main_section img:active {
+  box-shadow: 2px 2px 5px 4px rgba(0, 0, 0, 0.5);
+}
+.main_section h1 {
+  font-weight: bold;
+}
+
+.main_section p {
+  color: rgb(100, 99, 99);
+}
+
+#Balinese {
+  margin-bottom: 6rem;
+}
+
+footer {
+  margin-top: 5rem;
+}
+
+@media (max-width: 1200px) {
+  .main_section img {
+    width: 100%;
+  }
+}
