@@ -16,7 +16,8 @@ main {
 }
 
 #header_section h3 {
-  margin-top: 5rem;
+  margin-top: 2rem;
+   
 }
 .header_heading {
   font-family: "Gelasio", serif;
@@ -45,6 +46,8 @@ main {
   background-color: rgba(0, 0, 0, 0.5);
   width: 100%;
   padding: 20px;
+  padding-bottom: 22px;
+  
 }
 .header_lists {
   list-style: none;
@@ -67,9 +70,10 @@ main {
 .header_lists_paragraph a {
   color: white;
   text-decoration: none;
-
   border-bottom: 2px dotted white;
 }
+
+ 
 /* features section */
 #features {
   text-align: center;
