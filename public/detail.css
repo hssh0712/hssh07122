@@ -48,6 +48,9 @@ figcaption, h1 {
   margin: 8rem 0;
 }
 
+.main_section img {
+  width: 100%;
+}
 .main_section img:hover,
 .main_section img:active {
   box-shadow: 2px 2px 5px 4px rgba(0, 0, 0, 0.5);
