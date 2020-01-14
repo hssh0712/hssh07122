@@ -1,5 +1,7 @@
  .navbar_div {
    color: #71defb;
+   position: relative;
+   left: 8px;
  }
 
 /* header */
