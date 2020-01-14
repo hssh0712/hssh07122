@@ -7,16 +7,19 @@ main {
   
 }
 
-
+ 
  
  
 .nav-item {
-  width: 40%;
+ 
+  margin: 0;
+   
 }
 .nav-link {
   padding: 0;
   height: 35px;
-  text-align: center;
+  width: 50%;
+  text-align: left;
   color: #71defb !important;
  
 }
@@ -27,6 +30,15 @@ main {
  
   color: #39b6d6 !important;
 
+}
+
+.navbar-collapse {
+  
+  padding-left: 3rem;
+  
+}
+figure {
+  text-align: center;
 }
 figcaption, h1 {
   text-align: center;
@@ -46,6 +58,7 @@ figcaption, h1 {
 
 .main_section p {
   color: rgb(100, 99, 99);
+ text-align: center;
 }
 
 #Balinese {

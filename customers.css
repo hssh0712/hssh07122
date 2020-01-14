@@ -24,6 +24,15 @@ header {
       box-shadow: none;
 }
  
+.navbar-collapse {
+  
+  padding-left: 3rem;
+  
+}
+
+.nav-item {
+  margin: 0;
+}
  
 
  
@@ -39,21 +48,19 @@ main {
 .testimonial__image:hover {
   box-shadow: 2px 2px 5px 4px rgba(0, 0, 0, 0.5);
 }
-.navbar-collapse {
-  
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
-}
+ 
  
 .testimonial {
   margin-bottom: 3rem;
+  text-align: center;
  
 }
 .testimonial__info {
   display: inline-block;
-  width: 30%;
+  width: 40%;
   vertical-align: middle;
   margin-left: 10px;
+ 
 }
 
 .testimonial__name {
@@ -77,7 +84,7 @@ main {
  
 .testimonial__image-container {
   display: inline-block;
-  width: 65%;
+  width: 55%;
   
  
 }
