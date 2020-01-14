@@ -9,6 +9,7 @@ header {
   width: 50%;
   padding: 0;
   text-align: left;
+ 
 }
 .nav-link:hover,
 .nav-link:active,
@@ -26,8 +27,8 @@ header {
 }
 
 .nav-item {
-  margin: 0;
-}
+  margin: 16px;
+} 
 
 main {
   padding: 0 16px;

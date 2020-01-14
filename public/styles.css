@@ -32,6 +32,10 @@ main {
   color: white;
 }
 
+.btn.btn-lg {
+  cursor: pointer;
+}
+
 #header_section button {
   margin: 8px;
   box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.5);
