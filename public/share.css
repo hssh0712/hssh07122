@@ -1,9 +1,7 @@
- 
 body {
-  font-family: 'Roboto', sans-serif;
- 
+  font-family: "Roboto", sans-serif;
 }
- 
+
 header {
   padding-top: 2rem;
   padding-left: 16px;
@@ -11,29 +9,24 @@ header {
   color: white;
   text-align: center;
   width: 100%;
- } 
- 
+}
+
 /* navbar */
 
 .navbar {
   position: relative;
   bottom: 2em;
   padding: 8px 0;
-   
 }
- 
+
 .navbar-brand {
   display: block;
   width: 3.5rem;
- 
   font-size: 2rem;
- 
 }
- 
+
 .navbar-brand img {
   width: 100%;
-  
-
 }
 .navbar_div {
   display: inline-block;
@@ -43,23 +36,20 @@ header {
 .navbar-nav {
   position: relative;
   right: 3rem;
- 
 }
 
- 
 .nav-item {
   margin: 0 16px;
- width: 100%;
-   
+  width: 100%;
 }
 
 .nav-link {
   background: initial;
   border: none;
-  color :white !important;
+  color: white !important;
   font-size: 1.3rem;
   font-weight: bold;
- width: 100%;
+  width: 100%;
 }
 
 .nav-link:hover,
@@ -69,15 +59,12 @@ header {
   box-shadow: none !important;
   background-color: initial !important;
   color: rgb(196, 194, 194) !important;
-
 }
- 
- 
- 
+
 /* footer section  */
 #footer {
   text-align: center;
-  padding:  16px;
+  padding: 16px;
 }
 
 footer a {
@@ -97,10 +84,8 @@ footer p {
   .header_lists_div {
     margin-top: 12rem;
   }
-
-   
 }
- 
+
 @media (min-width: 571px) and (max-width: 661px) {
   #header_section {
     height: 400px;

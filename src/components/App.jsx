@@ -74,56 +74,56 @@ function App() {
         <section id="features">
           <h1 className="section_heading">Let's find out about our cat's characteristics.</h1>
           <div class="row">
-            <Card 
-            img={profileAby}
-            name="Abyssinian"
-            gender="SH"
-            characteristic="Ticked coat; ruddy, red, blue and fawn colors"
-            personality="Busy, active, agenda-driven and affectionate"
+            <Card
+              img={profileAby}
+              name="Abyssinian"
+              gender="SH"
+              characteristic="Ticked coat; ruddy, red, blue and fawn colors"
+              personality="Busy, active, agenda-driven and affectionate"
             />
-            <Card 
-            img={cat2}
-            name="American Bobtail"
-            gender="LH & SH"
-            characteristic="Medium to large, naturally occurring, bobtailed cat"
-            personality="Loving and intelligent"
+            <Card
+              img={cat2}
+              name="American Bobtail"
+              gender="LH & SH"
+              characteristic="Medium to large, naturally occurring, bobtailed cat"
+              personality="Loving and intelligent"
             />
-            <Card 
-            img={cat3}
-            name="American Curl"
-            gender="LH & SH"
-            characteristic="Ears curl back, away from the face; available in a variety of colors and patterns"
-            personality="Energetic and affectionate"
+            <Card
+              img={cat3}
+              name="American Curl"
+              gender="LH & SH"
+              characteristic="Ears curl back, away from the face; available in a variety of colors and patterns"
+              personality="Energetic and affectionate"
             />
-            <Card 
-            img={cat4}
-            name="American Shorthair"
-            gender="SH"
-            characteristic="Stocky, working breed: available in a wide variety of colors and patterns"
-            personality="Even tempered and quiet"
+            <Card
+              img={cat4}
+              name="American Shorthair"
+              gender="SH"
+              characteristic="Stocky, working breed: available in a wide variety of colors and patterns"
+              personality="Even tempered and quiet"
             />
-            <Card 
-            img={cat5}
-            name="American Wirehair"
-            gender="SH"
-            characteristic="Crimped, springy coat; available in a variety of colors and patterns"
-            personality="Even temperament"
+            <Card
+              img={cat5}
+              name="American Wirehair"
+              gender="SH"
+              characteristic="Crimped, springy coat; available in a variety of colors and patterns"
+              personality="Even temperament"
             />
-            <Card 
-            img={cat6}
-            name="Balinese"
-            gender="LH"
-            characteristic=" LH variety of Siamese; chocolate, seal, blue and lilac point colors"
-            personality="Vocal, affectionate, active"
+            <Card
+              img={cat6}
+              name="Balinese"
+              gender="LH"
+              characteristic=" LH variety of Siamese; chocolate, seal, blue and lilac point colors"
+              personality="Vocal, affectionate, active"
             />
           </div>
         </section>
       </main>
-      <hr/>
+      <hr />
       <footer>
         <section id="footer">
           <h1 className="section_heading">If you're interested, please contact me one of the below.</h1>
-           
+
           <a href=""><i class="fab fa-instagram"></i></a>
           <a href=""><i class="fab fa-twitter"></i></a>
           <a href=""><i class="fab fa-facebook-f"></i></a>

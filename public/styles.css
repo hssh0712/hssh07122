@@ -1,8 +1,8 @@
- .navbar_div {
-   color: #71defb;
-   position: relative;
-   left: 8px;
- }
+.navbar_div {
+  color: #71defb;
+  position: relative;
+  left: 8px;
+}
 
 /* header */
 main {
@@ -13,18 +13,16 @@ main {
   width: 100%;
   height: 528px;
   margin-top: 3rem;
-
 }
 
 #header_section h3 {
   margin-top: 5rem;
 }
 .header_heading {
-  font-family: 'Gelasio', serif;
+  font-family: "Gelasio", serif;
   font-weight: bold;
   font-size: 3.5rem;
   margin-bottom: 0;
-  
 }
 
 .header_info {
@@ -37,15 +35,12 @@ main {
 #header_section button {
   margin: 8px;
   box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.5);
- 
- 
 }
 
 .header_lists_div {
   background-color: rgba(0, 0, 0, 0.5);
   width: 100%;
   padding: 20px;
- 
 }
 .header_lists {
   list-style: none;
@@ -68,33 +63,29 @@ main {
 .header_lists_paragraph a {
   color: white;
   text-decoration: none;
-  
+
   border-bottom: 2px dotted white;
- 
 }
 /* features section */
 #features {
   text-align: center;
   padding: 8px 16px;
- 
 }
 .section_heading {
-   margin-top: 3rem;
+  margin-top: 3rem;
   font-size: 2rem;
   font-weight: bold;
 }
 
 .card {
- 
   margin: 16px 0;
- 
 }
- 
+
 .card:hover,
 .card:active {
   box-shadow: 2px 2px 2px 3px rgba(0, 0, 0, 0.5);
 }
- 
+
 .card h3 {
   color: rgb(226, 78, 78);
 }
@@ -102,6 +93,3 @@ main {
 .card_info {
   color: grey;
 }
-
- 
- 
